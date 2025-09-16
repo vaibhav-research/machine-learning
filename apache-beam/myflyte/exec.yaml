@@ -1,0 +1,9 @@
+iamRoleARN: ""
+inputs:
+    name: world
+envs: {}
+kubeServiceAcct: ""
+targetDomain: ""
+targetProject: ""
+version: v1
+workflow: workflows.example.wf
